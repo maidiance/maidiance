@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Winifred Lu</h1>
-<h3 align="center">Enjoying fullstack web development! I am always learning more and ready for a new adventure :)w</h3>
+<h3 align="center">Enjoying fullstack web development! I am always learning more and ready for a new adventure :)</h3>
 
 - 🔭 I’m currently working on [Looty](https://github.com/maidiance/Looty)
 
