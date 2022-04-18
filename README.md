@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Winifred Lu</h1>
 <h3 align="center">Enjoying fullstack web development! I am always learning more and ready for a new adventure :)</h3>
 
-- 🔭 I’m currently working on [Underdog Devs](https://github.com/BloomTech-Labs/underdog-devs-fe-a)
+- 🔭 I’m currently working on [Looty](https://github.com/maidiance/Looty)
 
 - 🌱 I’m currently learning **Express, Node, React, Axios, Sqlite**
 
